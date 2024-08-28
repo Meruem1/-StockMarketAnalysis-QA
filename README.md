@@ -1,4 +1,4 @@
-# -StockMarketAnalysisTutorial_with_LLM
+# -StockMarketAnalysis QA_LLM
 
 ![355703215-96a2515e-3a3f-4bcc-9d19-193db4f59136](https://github.com/user-attachments/assets/782f82c1-f086-45cf-bbd0-404e93d17795)
 ![355703407-5a9548c0-1dcd-4b60-9b8b-3662aa92b6df](https://github.com/user-attachments/assets/8c0e64cc-60a7-44d4-97c3-4e8db55ede26)
